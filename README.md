@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Zoodle Bug Tests</title>
+ <b>Zazoo Bug Tests</b>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
